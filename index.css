@@ -1,0 +1,81 @@
+.navbar-brand {
+  font-family: Montserrat;
+}
+
+.jumbotron {
+  padding-top: 32px;
+  padding-bottom: 32px;
+  margin-bottom: 0px;
+}
+
+.foot {
+  background-color: black;
+  margin-bottom: 0;
+}
+
+
+#navb{
+  height: 30px;
+  width: 40px;
+}
+
+.card-text{
+  font-style: italic;
+}
+
+#gerald{
+  background-color: black;
+  color: yellow;
+  font-size: 50px;
+  text-align: center;
+}
+
+table, th, tr{
+  border: 5px solid black;
+}
+
+th{
+  font-size: 30px;
+  vertical-align: bottom;
+}
+
+td{
+  font-size: 20px;
+}
+
+#x {
+  width: 40%;
+}
+
+#y {
+  vertical-align: middle;
+}
+
+.table-active {
+  color: black;
+  background-color: white;
+}
+
+#text{
+  color: white;
+}
+
+video {
+  text-align: center;
+}
+
+#link {
+  color: blue;
+  text-decoration: underline;
+}
+
+#dis{
+  width: 50%;
+  height: 50%;
+}
+
+.collapse.in{
+    display:block !important;
+    float: left;
+    width: 100%;
+}
